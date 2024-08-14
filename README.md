@@ -7,7 +7,7 @@ Este análisis está basado en el dataset de transacciones fraudulentas de [Mach
 El problema fue que estas transacciones estaban pensadas para ser procesadas a través de procesos de Machine Learning (lo cual no era mi objetivo), por lo tanto, decidí adaptar el dataset para hacerlo más interesante y poder analizar más a fondo las cualidades de este.
 Al adaptar el dataset, he podido identificar tendencias y anomalías que revelan cómo y dónde ocurren estos fraudes, abriendo la puerta a un análisis detallado y estrategias preventivas futuras.
 
-## Proceso de Transformación y Análisis del Dataset
+## Proceso de Transformación 
 
 ### 1. **Exploración Inicial del Dataset**
    - **Carga de Datos:** Comencé cargando el dataset y realizando una exploración inicial para entender la estructura y el contenido de los datos.
@@ -23,6 +23,11 @@ Al adaptar el dataset, he podido identificar tendencias y anomalías que revelan
 ### 4. **Creación del DataFrame Final**
    - **Consolidación de Transformaciones:** Todas las transformaciones y limpiezas realizadas se consolidaron en un nuevo DataFrame, optimizado para el análisis posterior.
    - **Verificación de Integridad:** Realicé verificaciones adicionales para asegurar que el DataFrame final estaba libre de errores y era coherente con los objetivos del análisis.
+
+![image](https://github.com/user-attachments/assets/967de6ce-c9bc-4103-9f50-8787d9912ca2)
+
+
+## Análisis del Dataset
 
 ### 5. **Análisis Exploratorio de Datos (EDA)**
    (Próximamente)
