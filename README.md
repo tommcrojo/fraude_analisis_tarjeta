@@ -63,13 +63,12 @@ Porcentaje de Transacciones Marcadas como Posible Fraude:
 Se observó que aproximadamente el 17% de las transacciones fueron marcadas como posibles fraudes. Este porcentaje es más alto de lo esperado debido a que los datos utilizados son sintéticos y generados de forma aleatoria, lo que puede introducir anomalías no representativas de un conjunto de datos real.
 ![image](https://github.com/user-attachments/assets/fccbcb7b-8375-4ee1-8984-dd39bb0966e4)
 
-## Análisis del Dataset
+## 📊 Visualización de datos
 
-### 5. **Análisis Exploratorio de Datos (EDA)**
-   (Próximamente)
+Dashboard en PowerBI:
+![image](https://github.com/user-attachments/assets/18231846-6d8e-47d8-b675-5b8575016c8a)
+Si quieres interactuar con el dashboard, puedes descargar este archivo en la carpeta
 
-## Actualizaciones Futuras
-Este proyecto está en desarrollo continuo. En futuras actualizaciones, se incluirán análisis más avanzados, como la segmentación de clientes, detección de patrones fraudulentos y visualizaciones adicionales que profundicen en los insights obtenidos.
 
 ## Conclusión
 Este repositorio representa el comienzo de un análisis en profundidad de los datos de fraude con tarjetas de crédito. La cuidadosa adaptación del dataset es un paso crucial para garantizar que los análisis sean precisos y útiles desde una perspectiva analítica, en lugar de puramente predictiva.
